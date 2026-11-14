@@ -1,0 +1,28 @@
+Offset blind spots in compressed language models: code and data release (phase-audit)
+Copyright 2026 Johannes Gast, Ingenieurbuero Johannes Gast (independent researcher)
+
+Licences
+- Code (src/, analysis/, tests/, tools/, data_build/, scripts and workflow files): Apache License 2.0 (LICENSE).
+- Data tables, expected values and figures (data/, expected/, figures/): Creative Commons Attribution 4.0
+  International (LICENSE-DATA).
+
+Attribution
+Redistributions and derivative works must keep this NOTICE file (Apache License 2.0, section 4(d)) and the
+copyright lines in the source files. Reuse of the data, expected values or figures must credit:
+  Johannes Gast (2026). Offset blind spots in compressed language models: a black-box audit and a two-grid
+  remedy (code and data). https://github.com/jg-codes/phase-audit
+Academic use is asked to cite the paper and this release as given in CITATION.cff.
+
+Other terms
+The copyright holder keeps all rights not granted by these licences and may offer this material under other
+terms on request.
+
+Third-party material
+- src/two_grid_chunkkv_press.py subclasses ChunkKVPress of the kvpress project (Copyright NVIDIA Corporation
+  and affiliates, Apache-2.0, https://github.com/NVIDIA/kvpress). No kvpress source file is copied into this
+  release. The press was tested against kvpress 0.5.5.
+- The ChunkKV method is by Liu et al. (2025), arXiv:2502.00299; its reference implementation is the kvpress
+  class named above. SnapKV, CUR, LagKV, Compactor, Knorm and StreamingLLM are cited in the paper.
+- The analysis reads per-item correctness derived from the public kvpress leaderboard predictions (Hugging
+  Face Space nvidia/kvpress-leaderboard, revision e81fc403) and needle positions derived from the RULER-4096
+  benchmark as distributed with the kvpress project. Neither the predictions nor the benchmark texts are copied.

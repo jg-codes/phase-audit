@@ -1,0 +1,26 @@
+{
+ "A1_chunkkv|cr0.875|auc_kv": {
+  "tol": 0.0005,
+  "value": 0.916
+ },
+ "A1_chunkkv|cr0.875|auc_kv_ci_hi": {
+  "tol": 0.0005,
+  "value": 0.953
+ },
+ "A1_chunkkv|cr0.875|auc_kv_ci_lo": {
+  "tol": 0.0005,
+  "value": 0.866
+ },
+ "A1_chunkkv|cr0.875|auc_v": {
+  "tol": 0.0005,
+  "value": 0.784
+ },
+ "A1_chunkkv|cr0.875|err_in_split_pct": {
+  "tol": 0.05,
+  "value": 96.2
+ },
+ "twogrid_split_offsets": {
+  "tol": 0.5,
+  "value": 4
+ }
+}

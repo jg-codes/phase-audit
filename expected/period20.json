@@ -1,0 +1,174 @@
+{
+ "Llama-3.1-8B-Instruct|0.50|chunkkv_LR": {
+  "value": "excl."
+ },
+ "Llama-3.1-8B-Instruct|0.50|diff_pp": {
+  "tol": 0.050000001,
+  "value": 10.3
+ },
+ "Llama-3.1-8B-Instruct|0.50|n": {
+  "tol": 0.5,
+  "value": 2997.0
+ },
+ "Llama-3.1-8B-Instruct|0.50|paired_F": {
+  "tol": 0.050000001,
+  "value": 2.3
+ },
+ "Llama-3.1-8B-Instruct|0.50|paired_p": {
+  "tol": 0.001800000001,
+  "value": 0.03
+ },
+ "Llama-3.1-8B-Instruct|0.50|twin_LR": {
+  "tol": 0.050000001,
+  "value": 6.0
+ },
+ "Llama-3.1-8B-Instruct|0.50|twin_p": {
+  "tol": 0.025800000001,
+  "value": 0.43
+ },
+ "Llama-3.1-8B-Instruct|0.75|chunkkv_LR": {
+  "value": "excl."
+ },
+ "Llama-3.1-8B-Instruct|0.75|diff_pp": {
+  "tol": 0.050000001,
+  "value": 14.9
+ },
+ "Llama-3.1-8B-Instruct|0.75|n": {
+  "tol": 0.5,
+  "value": 2997.0
+ },
+ "Llama-3.1-8B-Instruct|0.75|paired_F": {
+  "tol": 0.050000001,
+  "value": 0.9
+ },
+ "Llama-3.1-8B-Instruct|0.75|paired_p": {
+  "tol": 0.030600000000999997,
+  "value": 0.51
+ },
+ "Llama-3.1-8B-Instruct|0.75|twin_LR": {
+  "tol": 0.050000001,
+  "value": 13.0
+ },
+ "Llama-3.1-8B-Instruct|0.75|twin_p": {
+  "tol": 0.002400000001,
+  "value": 0.04
+ },
+ "Llama-3.1-8B-Instruct|0.88|chunkkv_LR": {
+  "tol": 0.050000001,
+  "value": 257.5
+ },
+ "Llama-3.1-8B-Instruct|0.88|chunkkv_p": {
+  "tol": 1e-12,
+  "value": 1e-52
+ },
+ "Llama-3.1-8B-Instruct|0.88|diff_pp": {
+  "tol": 0.050000001,
+  "value": 7.2
+ },
+ "Llama-3.1-8B-Instruct|0.88|n": {
+  "tol": 0.5,
+  "value": 2997.0
+ },
+ "Llama-3.1-8B-Instruct|0.88|paired_F": {
+  "tol": 0.050000001,
+  "value": 38.2
+ },
+ "Llama-3.1-8B-Instruct|0.88|paired_p": {
+  "tol": 1e-12,
+  "value": 6.3e-45
+ },
+ "Llama-3.1-8B-Instruct|0.88|twin_LR": {
+  "value": "n.e."
+ },
+ "Qwen3-8B|0.50|chunkkv_LR": {
+  "value": "excl."
+ },
+ "Qwen3-8B|0.50|diff_pp": {
+  "tol": 0.050000001,
+  "value": 17.1
+ },
+ "Qwen3-8B|0.50|n": {
+  "tol": 0.5,
+  "value": 3000.0
+ },
+ "Qwen3-8B|0.50|paired_F": {
+  "tol": 0.050000001,
+  "value": 0.4
+ },
+ "Qwen3-8B|0.50|paired_p": {
+  "tol": 0.053400000000999995,
+  "value": 0.89
+ },
+ "Qwen3-8B|0.50|twin_LR": {
+  "tol": 0.050000001,
+  "value": 2.7
+ },
+ "Qwen3-8B|0.50|twin_p": {
+  "tol": 0.05040000000099999,
+  "value": 0.84
+ },
+ "Qwen3-8B|0.75|chunkkv_LR": {
+  "tol": 0.050000001,
+  "value": 135.6
+ },
+ "Qwen3-8B|0.75|chunkkv_p": {
+  "tol": 1.0000000000000006e-12,
+  "value": 8.5e-27
+ },
+ "Qwen3-8B|0.75|diff_pp": {
+  "tol": 0.050000001,
+  "value": 22.8
+ },
+ "Qwen3-8B|0.75|n": {
+  "tol": 0.5,
+  "value": 3000.0
+ },
+ "Qwen3-8B|0.75|paired_F": {
+  "tol": 0.050000001,
+  "value": 10.8
+ },
+ "Qwen3-8B|0.75|paired_p": {
+  "tol": 1.396e-12,
+  "value": 6.6e-12
+ },
+ "Qwen3-8B|0.75|twin_LR": {
+  "tol": 0.050000001,
+  "value": 5.6
+ },
+ "Qwen3-8B|0.75|twin_p": {
+  "tol": 0.028200000000999995,
+  "value": 0.47
+ },
+ "Qwen3-8B|0.88|chunkkv_LR": {
+  "tol": 0.050000001,
+  "value": 352.9
+ },
+ "Qwen3-8B|0.88|chunkkv_p": {
+  "tol": 1e-12,
+  "value": 3.7e-73
+ },
+ "Qwen3-8B|0.88|diff_pp": {
+  "tol": 0.050000001,
+  "value": 9.0
+ },
+ "Qwen3-8B|0.88|n": {
+  "tol": 0.5,
+  "value": 3000.0
+ },
+ "Qwen3-8B|0.88|paired_F": {
+  "tol": 0.050000001,
+  "value": 28.2
+ },
+ "Qwen3-8B|0.88|paired_p": {
+  "tol": 1e-12,
+  "value": 6.4e-33
+ },
+ "Qwen3-8B|0.88|twin_LR": {
+  "tol": 0.050000001,
+  "value": 7.2
+ },
+ "Qwen3-8B|0.88|twin_p": {
+  "tol": 0.018000000000999997,
+  "value": 0.3
+ }
+}

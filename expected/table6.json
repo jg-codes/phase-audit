@@ -1,0 +1,54 @@
+{
+ "chunk10_cr875": {
+  "tol": 0.0005,
+  "value": 0.202
+ },
+ "chunk40_cr88": {
+  "tol": 0.0005,
+  "value": 0.642
+ },
+ "chunk5_cr875": {
+  "tol": 0.0005,
+  "value": 0.02
+ },
+ "lower_cr_memory_factor": {
+  "tol": 0.05,
+  "value": 3.6
+ },
+ "pro_typo_change_reduction_pct": {
+  "tol": 0.05,
+  "value": 51.0
+ },
+ "ruler_mean_diff_llama_75": {
+  "tol": 0.005,
+  "value": 2.01
+ },
+ "ruler_mean_diff_qwen_75": {
+  "tol": 0.005,
+  "value": 5.74
+ },
+ "ruler_mean_diff_qwen_875": {
+  "tol": 0.005,
+  "value": 10.27
+ },
+ "second_grid_overhead_pct_max": {
+  "tol": 0.5,
+  "value": 5
+ },
+ "second_grid_overhead_pct_min": {
+  "tol": 0.5,
+  "value": 3
+ },
+ "second_grid_overhead_s_max": {
+  "tol": 0.005,
+  "value": 0.06
+ },
+ "second_grid_overhead_s_min": {
+  "tol": 0.005,
+  "value": 0.03
+ },
+ "twogrid_cr88": {
+  "tol": 0.0005,
+  "value": 0.838
+ }
+}

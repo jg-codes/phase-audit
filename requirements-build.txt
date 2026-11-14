@@ -1,0 +1,4 @@
+# Only for data_build/ (rebuilding data/ from the public leaderboard and benchmark files)
+tokenizers==0.23.3
+huggingface_hub==2.2.0
+pyarrow==25.0.0

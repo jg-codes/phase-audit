@@ -1,0 +1,58 @@
+{
+ "chunk40|cr0.875|mean": {
+  "tol": 0.0005,
+  "value": 0.642
+ },
+ "chunkkv|cr0.875|mean": {
+  "tol": 0.0005,
+  "value": 0.579
+ },
+ "full_cache_mean": {
+  "tol": 0.0005,
+  "value": 0.904
+ },
+ "iso_boot_share_never_reaching_pct": {
+  "tol": 0.05,
+  "value": 14.9
+ },
+ "iso_cr_star": {
+  "tol": 0.005,
+  "value": 0.56
+ },
+ "iso_cr_star_ci_hi": {
+  "tol": 0.005,
+  "value": 0.67
+ },
+ "iso_cr_star_ci_lo": {
+  "tol": 0.005,
+  "value": 0.5
+ },
+ "iso_memory_factor": {
+  "tol": 0.05,
+  "value": 3.6
+ },
+ "iso_memory_factor_hi": {
+  "tol": 0.05,
+  "value": 4.2
+ },
+ "iso_memory_factor_lo": {
+  "tol": 0.05,
+  "value": 2.7
+ },
+ "n_items": {
+  "tol": 0.5,
+  "value": 12
+ },
+ "prefill_s": {
+  "tol": 0.5,
+  "value": 25
+ },
+ "second_grid_overhead_s": {
+  "tol": 0.005,
+  "value": 0.1
+ },
+ "twogrid|cr0.875|mean": {
+  "tol": 0.0005,
+  "value": 0.838
+ }
+}

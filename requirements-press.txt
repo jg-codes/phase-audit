@@ -1,0 +1,5 @@
+# Only for the unit test of src/two_grid_chunkkv_press.py (tested here with these versions, CPU)
+kvpress==0.5.5
+torch==2.15.0
+transformers==5.2.0
+pytest==9.2.0

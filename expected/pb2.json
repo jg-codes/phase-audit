@@ -1,0 +1,22 @@
+{
+ "flash_1k|P1_ci_hi_pp": {
+  "tol": 0.005,
+  "value": 4.4
+ },
+ "flash_1k|P1_ci_lo_pp": {
+  "tol": 0.005,
+  "value": -1.36
+ },
+ "flash_1k|P1_diff_pp": {
+  "tol": 0.005,
+  "value": 0.84
+ },
+ "flash_1k|kept_probes": {
+  "tol": 0.5,
+  "value": 99
+ },
+ "flash_1k|repeat_flip_pct": {
+  "tol": 0.05,
+  "value": 3.8
+ }
+}

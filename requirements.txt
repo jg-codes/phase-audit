@@ -1,0 +1,7 @@
+# Pinned versions used for the verified rebuild (Python 3.11, see REPRO_LOG.txt in the release assets)
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+statsmodels==0.15.0
+patsy==1.0.3
+matplotlib==3.11.1

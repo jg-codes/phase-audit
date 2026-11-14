@@ -1,0 +1,23 @@
+{
+  "title": "Offset blind spots in compressed language models: a black-box audit and a two-grid remedy (code and data)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-11-14",
+  "license": "Apache-2.0",
+  "description": "Code, derived data tables and scripts that rebuild every table and figure of the paper 'Offset blind spots in compressed language models: a black-box audit and a two-grid remedy' from the derived tables. Code is licensed under Apache-2.0; the data tables, expected values and figures are licensed under CC BY 4.0 (see LICENSE-DATA). Raw API outputs, benchmark texts, model weights and the registration files are not included (see README).",
+  "creators": [
+    {
+      "name": "Gast, Johannes",
+      "affiliation": "Ingenieurbuero Johannes Gast (independent researcher)"
+    }
+  ],
+  "keywords": [
+    "KV cache compression",
+    "ChunkKV",
+    "black-box audit",
+    "periodogram",
+    "RULER",
+    "language models"
+  ],
+  "access_right": "open"
+}
