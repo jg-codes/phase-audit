@@ -1,6 +1,6 @@
 # phase-audit: code and data of "Offset blind spots in compressed language models: a black-box audit and a two-grid remedy"
 
-Version 1.0.0. Author: Johannes Gast, Ingenieurbuero Johannes Gast (independent researcher).
+Version 1.0.0, archived at https://doi.org/10.5281/zenodo.24229081 (all versions). Author: Johannes Gast, Ingenieurbuero Johannes Gast (independent researcher).
 
 ## What the paper claims
 
