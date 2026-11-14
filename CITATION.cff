@@ -4,6 +4,7 @@ type: software
 title: "Offset blind spots in compressed language models: a black-box audit and a two-grid remedy (code and data)"
 abstract: "Code, derived data tables and scripts that rebuild every table and figure of the paper 'Offset blind spots in compressed language models: a black-box audit and a two-grid remedy' from the derived tables. Code: Apache-2.0. Data: CC BY 4.0."
 version: 1.0.0
+doi: 10.5281/zenodo.24229081
 date-released: 2026-11-14
 license: Apache-2.0
 repository-code: "https://github.com/jg-codes/phase-audit"
